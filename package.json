@@ -18,5 +18,10 @@
   "scripts": {
     "lint": "yarn prettier --check .",
     "lint:fix": "yarn prettier --write ."
-  }
+  },
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/2023PHOENIX/hardhat-simple-storage-fcc.git",
+  "author": "Abhishek Shrivastav <abhishekshrivastav1920@gmail.com>",
+  "license": "MIT"
 }
